@@ -483,14 +483,15 @@ section>p>img{
         flex-wrap: wrap;
     }
     footer .bloc{
-        width: 50%;
+        width: 100%;
+        padding: 7px;
     }
     .onglet{
         margin: 7% 15% 0 15%;
-        width: 70%;
+        width: 75%;
     }
     #telephone{
-        font-size: 1.5rem;
+        font-size: 1.1rem;
         width: 98%;
         margin: 6% 1% 0 1%;
     }
