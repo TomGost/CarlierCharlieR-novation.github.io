@@ -561,15 +561,16 @@ section>p>img{
         height: 350px;
     }
     #contact h3{
-        float: left;
-        text-align: right;
-        width: 38%;
-        margin-left: 1%;
+        text-align: center;
+        width: 100%;
+        margin-left: 0%;
+        padding: 5px ;
     }
     #contact p{
-        float: left;
-        width: 58%;
-        margin: 0 0 0 2%;
+        text-align: center;
+        width: 100%;
+        margin: 0 0 0 0%;
+        padding: 5px ;
     }
     #iconescontact{
         margin-left: 25%;
