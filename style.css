@@ -142,7 +142,7 @@ footer{
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    padding: 15px 0px 30px 0px;
+    padding: 15px 0px 15px 0px;
     text-align: center;
 }
 footer .bloc{
@@ -475,12 +475,6 @@ section>p>img{
     }
     .contenu-footer{
         width: 100%;
-        margin: 0 auto;
-        display: flex;
-        justify-content: center;
-        align-items: flex-start;
-        padding: 15px 0px 30px 0px;
-        text-align: center;
         flex-wrap: wrap;
     }
     footer .bloc{
