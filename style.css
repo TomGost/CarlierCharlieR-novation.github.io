@@ -240,9 +240,12 @@ section>p>img{
     margin: 7% 0 10% 0;
 }
 #posecarrelage{
-    margin: 10% 0 0 14%;
     width: 25%;
-    height: 300px;
+    margin: 10% 0 0 14%;
+    
+}
+#posecarrelage img{
+    width: 100%;
     position: relative;
     float: left;
     border-radius: 20%;
@@ -340,7 +343,6 @@ section>p>img{
     #posecarrelage{
         margin: 8% 0 0 9%;
         width: 30%;
-        height: 300px;
     }
     #DevisGarantie{
         width: 50%;
@@ -386,7 +388,6 @@ section>p>img{
     #posecarrelage{
         margin: 8% 0 0 4%;
         width: 35%;
-        height: 300px;
     }
 }
 @media screen and (max-width: 1100px){
@@ -557,8 +558,8 @@ section>p>img{
         margin-left: 0%;
     }
     #posecarrelage{
-        margin: 1% 17.5% 0 17.5%;
-        width: 65%;
+        margin: 1% 2.5% 0 2.5%;
+        width: 95%;
         height: 350px;
     }
     #contact h3{
