@@ -290,6 +290,17 @@ section>p>img{
 #iconescontact img:hover{
     height: 90px;
 }
+#Devis-Gratuit{
+    width: 70%;
+    margin: 8% 15% 0 15%;
+    background: RGBa(93, 109, 126,0.8);
+    font-size: 1.6rem;
+    text-align:center;
+    box-shadow: 0px 0px 4px RGBa(93, 109, 126);
+    border-radius: 2%;
+    color: whitesmoke;
+    text-shadow: 1px 1px 1px black;
+}
 #presentation{
     width: 70%;
     margin: 8% 15% 0 15%;
@@ -529,6 +540,10 @@ section>p>img{
     }
     #servicesligne2 p{
         width: 50%;
+    }
+    #Devis-Gratuit{
+    width: 95%;
+    margin: 8% 2.5% 0 2.5%;
     }
     #presentation{
         width: 95%;
